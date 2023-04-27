@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [NaaptolRegression]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Chrometest(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="test.VarifyIfCustomerIsAbleToPlace">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+        </methods>
+      </class> <!-- test.VarifyIfCustomerIsAbleToPlace -->
+      <class name="test.VarifyIfCustomerAbleToAddMultipleProductToCart">
+        <methods>
+          <include name="VarifyMultipleProductToAddCart"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- test.VarifyIfCustomerAbleToAddMultipleProductToCart -->
+      <class name="test.ToVarifyCustomerIsAbleToRemoveProductFromCart">
+        <methods>
+          <include name="toRemoveSuccessfullyProductToCart"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- test.ToVarifyCustomerIsAbleToRemoveProductFromCart -->
+      <class name="test.VarifyLogoutPageFeatures">
+        <methods>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- test.VarifyLogoutPageFeatures -->
+      <class name="test.VarifyIfCustomerIsAbleToAddProductToCart">
+        <methods>
+          <include name="VarifyTheProductToAddSuccefullyInCart"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- test.VarifyIfCustomerIsAbleToAddProductToCart -->
+      <class name="test.ToVarifyAdressProceedToCkeckOutPage">
+        <methods>
+          <include name="ToVarifyAddressProceedToChekOutPage"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- test.ToVarifyAdressProceedToCkeckOutPage -->
+      <class name="test.VarifyLoginOrRegistrationFunctionality">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+          <include name="VarifyTheWorkingOfLoginButtonWithInValiedMobileNumber"/>
+        </methods>
+      </class> <!-- test.VarifyLoginOrRegistrationFunctionality -->
+      <class name="test.VerifyProductAreDisplayedSearch">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="varifyAreProductDisplyedValiedSearch"/>
+          <include name="varifyAreProductDisplyedInValiedSearch"/>
+        </methods>
+      </class> <!-- test.VerifyProductAreDisplayedSearch -->
+      <class name="test.ToVarifyProceedToCheckInCart">
+        <methods>
+          <include name="ToVarifyTheProductChekoutFunctionality"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- test.ToVarifyProceedToCheckInCart -->
+      <class name="test.VarifyTheCartPage">
+        <methods>
+          <include name="VarifyTheProductToAddSuccefullyInCart"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- test.VarifyTheCartPage -->
+      <class name="test.VarifyTheFeedBackForm">
+        <methods>
+          <include name="varifyGeneralFeedbackRadioButton"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- test.VarifyTheFeedBackForm -->
+      <class name="test.VarifyTheAddToCArtButtonOfNaaptol">
+        <methods>
+          <include name="browserOpen"/>
+          <include name="VarifyTheProductToAddSuccefullyInCart"/>
+        </methods>
+      </class> <!-- test.VarifyTheAddToCArtButtonOfNaaptol -->
+      <class name="test.VarifyLoginFeaturesNaaptol">
+        <methods>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- test.VarifyLoginFeaturesNaaptol -->
+    </classes>
+  </test> <!-- Chrometest(failed) -->
+  <test thread-count="5" name="EdgeTest(failed)">
+    <parameter name="Browser" value="Edge"/>
+    <classes>
+      <class name="test.VarifyIfCustomerIsAbleToPlace">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+        </methods>
+      </class> <!-- test.VarifyIfCustomerIsAbleToPlace -->
+      <class name="test.VarifyIfCustomerAbleToAddMultipleProductToCart">
+        <methods>
+          <include name="VarifyMultipleProductToAddCart"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- test.VarifyIfCustomerAbleToAddMultipleProductToCart -->
+      <class name="test.ToVarifyCustomerIsAbleToRemoveProductFromCart">
+        <methods>
+          <include name="toRemoveSuccessfullyProductToCart"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- test.ToVarifyCustomerIsAbleToRemoveProductFromCart -->
+      <class name="test.VarifyLogoutPageFeatures">
+        <methods>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- test.VarifyLogoutPageFeatures -->
+      <class name="test.VarifyIfCustomerIsAbleToAddProductToCart">
+        <methods>
+          <include name="VarifyTheProductToAddSuccefullyInCart"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- test.VarifyIfCustomerIsAbleToAddProductToCart -->
+      <class name="test.ToVarifyAdressProceedToCkeckOutPage">
+        <methods>
+          <include name="ToVarifyAddressProceedToChekOutPage"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- test.ToVarifyAdressProceedToCkeckOutPage -->
+      <class name="test.VarifyLoginOrRegistrationFunctionality">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+          <include name="VarifyTheWorkingOfLoginButtonWithInValiedMobileNumber"/>
+        </methods>
+      </class> <!-- test.VarifyLoginOrRegistrationFunctionality -->
+      <class name="test.VerifyProductAreDisplayedSearch">
+        <methods>
+          <include name="varifyAreProductDisplyedValiedSearch"/>
+          <include name="openBrowser"/>
+          <include name="varifyAreProductDisplyedInValiedSearch"/>
+        </methods>
+      </class> <!-- test.VerifyProductAreDisplayedSearch -->
+      <class name="test.ToVarifyProceedToCheckInCart">
+        <methods>
+          <include name="ToVarifyTheProductChekoutFunctionality"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- test.ToVarifyProceedToCheckInCart -->
+      <class name="test.VarifyTheCartPage">
+        <methods>
+          <include name="VarifyTheProductToAddSuccefullyInCart"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- test.VarifyTheCartPage -->
+      <class name="test.VarifyTheFeedBackForm">
+        <methods>
+          <include name="varifyGeneralFeedbackRadioButton"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- test.VarifyTheFeedBackForm -->
+      <class name="test.VarifyTheAddToCArtButtonOfNaaptol">
+        <methods>
+          <include name="browserOpen"/>
+          <include name="VarifyTheProductToAddSuccefullyInCart"/>
+        </methods>
+      </class> <!-- test.VarifyTheAddToCArtButtonOfNaaptol -->
+      <class name="test.VarifyLoginFeaturesNaaptol">
+        <methods>
+          <include name="VarifyTheWorkingOfLoginButtonWithValiedMobileNumber"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- test.VarifyLoginFeaturesNaaptol -->
+    </classes>
+  </test> <!-- EdgeTest(failed) -->
+</suite> <!-- Failed suite [NaaptolRegression] -->

@@ -1,0 +1,224 @@
+2023-04-14 21:09:27,894 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-14 21:10:56,072 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Arise.Org:Naptol:0.0.1-SNAPSHOT @ C:\Naaptol\NatolEcommerce\pom.xml.
+2023-04-14 21:11:07,585 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Naptol/src/main/java
+2023-04-14 21:11:07,586 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Naptol/src/test/java
+2023-04-14 21:11:07,587 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Naptol/src/test/resources
+2023-04-14 21:11:07,789 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2023-04-14 21:11:10,118 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:11:10,120 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-14 21:11:10,123 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:11:10,128 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-14 21:11:40,514 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:11:40,516 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-14 21:11:40,518 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:11:40,521 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-14 21:11:58,268 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:11:58,270 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-14 21:11:58,273 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:11:58,299 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-14 21:33:43,749 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:33:43,751 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-14 21:33:43,754 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:33:43,755 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-14 21:39:54,606 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:39:54,608 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-14 21:39:54,611 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:39:54,616 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-14 21:48:10,849 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:48:10,849 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-14 21:48:10,849 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 21:48:10,849 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-14 21:58:53,738 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-14 22:00:42,454 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-14 22:00:50,081 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 22:00:50,083 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-14 22:00:50,087 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-14 22:00:50,093 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 10:38:16,226 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-17 10:38:20,812 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-04-17 11:29:05,877 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:29:05,889 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:29:05,893 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:29:05,913 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:37:23,595 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:37:23,596 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:37:23,600 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:37:23,697 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:38:33,707 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:38:33,708 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:38:33,712 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:38:33,813 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:40:02,517 [Worker-20: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:40:02,531 [Worker-20: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:40:02,533 [Worker-20: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:40:02,612 [Worker-20: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:40:33,770 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:40:33,865 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:40:33,867 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:40:33,870 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:40:57,466 [Worker-22: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:40:57,467 [Worker-22: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:40:57,470 [Worker-22: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:40:57,472 [Worker-22: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:41:20,183 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:41:20,184 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:41:20,186 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:41:20,188 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:41:47,231 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:41:47,232 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:41:47,235 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:41:47,237 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:42:35,213 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:42:35,215 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:42:35,217 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:42:35,218 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:42:51,281 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:42:51,282 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:42:51,284 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:42:51,285 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:43:21,610 [Worker-22: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:43:21,611 [Worker-22: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:43:21,613 [Worker-22: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:43:21,614 [Worker-22: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:43:33,290 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:43:33,291 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:43:33,294 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:43:33,295 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:44:08,474 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:44:08,475 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:44:08,478 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:44:08,480 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:44:31,840 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:44:31,841 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:44:31,843 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:44:31,845 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:45:03,140 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:03,141 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:45:03,143 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:03,144 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:45:18,056 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:18,057 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:45:18,061 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:18,063 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:45:34,928 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:34,929 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:45:34,930 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:35,042 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:45:50,075 [Worker-20: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:50,077 [Worker-20: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:45:50,078 [Worker-20: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:45:50,080 [Worker-20: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:46:04,029 [Worker-20: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:46:04,030 [Worker-20: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:46:04,032 [Worker-20: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:46:04,033 [Worker-20: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:46:39,178 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:46:39,180 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:46:39,182 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:46:39,183 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:47:06,964 [Worker-23: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:47:06,965 [Worker-23: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:47:06,967 [Worker-23: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:47:06,969 [Worker-23: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:47:25,356 [Worker-21: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:47:25,357 [Worker-21: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:47:25,359 [Worker-21: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:47:25,360 [Worker-21: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:47:58,276 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:47:58,277 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:47:58,279 [Worker-14: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:47:58,281 [Worker-14: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:48:21,272 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:48:21,273 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:48:21,276 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:48:21,278 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:48:48,795 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:48:48,796 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:48:48,797 [Worker-19: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:48:48,799 [Worker-19: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:49:14,447 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:49:14,448 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:49:14,450 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:49:14,451 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:49:47,831 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:49:47,832 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:49:47,833 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:49:47,835 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:50:19,897 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:50:19,898 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:50:19,900 [Worker-18: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:50:19,903 [Worker-18: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:51:10,800 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:51:10,801 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:51:10,803 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:51:10,805 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:51:35,692 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:51:35,693 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:51:35,695 [Worker-16: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:51:35,696 [Worker-16: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:51:51,039 [Worker-23: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:51:51,040 [Worker-23: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:51:51,042 [Worker-23: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:51:51,043 [Worker-23: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:52:46,636 [Worker-21: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:52:46,637 [Worker-21: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:52:46,639 [Worker-21: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:52:46,641 [Worker-21: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:56:37,692 [Worker-23: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:56:37,694 [Worker-23: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:56:37,696 [Worker-23: Launching AllProgram] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:56:37,697 [Worker-23: Launching AllProgram] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-17 11:58:36,688 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:58:36,689 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-17 11:58:36,691 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:58:36,692 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 11:28:47,815 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-18 11:29:31,415 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:29:31,415 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 11:29:31,423 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:29:31,444 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 11:33:37,927 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:33:37,983 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 11:33:37,986 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:33:38,049 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 11:42:30,178 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:42:30,180 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 11:42:30,183 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:42:30,185 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 11:51:46,949 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:51:46,949 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 11:51:46,949 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:51:46,949 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 11:56:00,632 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:56:00,632 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 11:56:00,632 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:56:00,648 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 11:57:25,433 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:57:25,446 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 11:57:25,446 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:57:25,446 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 11:57:28,292 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:57:28,292 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 11:57:28,304 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 11:57:28,304 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-18 12:08:04,088 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:08:04,089 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 12:08:04,093 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:08:04,164 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-18 12:10:16,877 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:10:16,877 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 12:10:16,877 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:10:16,877 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-18 12:12:03,359 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:12:03,359 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 12:12:03,375 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:12:03,455 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-18 12:12:04,498 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:12:04,498 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 12:12:04,498 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 12:12:04,498 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-18 18:55:57,348 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-18 19:03:39,183 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 19:03:39,187 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Naaptol\NatolEcommerce\src\main\resources
+2023-04-18 19:03:39,191 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-18 19:03:39,196 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

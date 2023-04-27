@@ -1,0 +1,254 @@
+package test;
+
+public class AllProgram {
+	public void Fibbo()
+	{
+	    int n1=0;
+	int n2=1;
+	    for(int i=1;i<=10;i++)
+	     {
+	        int n3=n1+n2;
+	   System.out.println(n3);
+	 n1=n2;
+	 n2=n3;
+	}
+	}
+
+
+
+
+	public void factorial()
+	{
+	    int fact=1;
+	    int num;
+	  for(int i=1;i<=10;i++)
+	    {
+	       fact=fact*i;
+	   }
+	System.out.println(fact);
+	}
+
+
+	public void palindrom()
+	{
+	   int num=121;
+	int r;
+	int sum=0;
+	int temp=num;
+	 while(num>0)
+	{
+	r=num%10;
+	sum=sum*10+r;
+	num=num/10;
+	}
+	if(temp==sum)
+	{
+	  System.out.println("The Number is palindrom");
+	}
+	else
+	{
+	System.out.println("The number is not palindrom");
+	}
+	}
+
+
+	public void ReverseNumber()
+	{
+	  int num=123456;
+	  int r;
+	  int sum=0;
+	  while(num>0)
+     	{
+	   r=num%10;
+	 sum=sum*10+r;
+	  num=num/10;
+	}
+	System.out.println(sum);
+	}
+
+    public void prime()
+	{
+	   int num=4;
+	int pc=2;
+	int dc=0;
+	while(num>pc)
+	{
+	  if(num%pc==0)
+	{
+	   dc++;
+	}
+	pc++;
+	}
+	if(dc==0)
+	{
+	System.out.println("Number is prime");
+	}
+	else
+	{
+	System.out.println("number is not prime");
+	}
+	}
+
+	public void table()
+	{
+	int n1=0;
+	int n2=1;
+	int count=10;
+	for(int i=1;i<=count;i++)
+	{
+	   int n3=n1+n2;
+	System.out.println(n3);
+	n2=n3;
+	}
+	}
+
+
+    public void evenOdd()
+	{
+	  
+	  
+	for(int i=1;i<=10;i++)
+	{
+	
+		
+	   if(i%2==0)
+	    {
+	      System.out.println("number is even"+i);
+	    }
+	   else {
+		   
+	   
+	System.out.println("number is odd"+i);
+	   }
+	}
+	}
+
+	public void reverseString()
+	{
+	    String s="shila";
+	    int len=s.length();
+	 for(int i=len-1;i>=0;i--)
+	{
+	  System.out.println(s.charAt(i));
+	}
+	}
+
+
+	public void palindromString()
+	{
+	   String s="nitin";
+	  int len=s.length();
+	  String empty="";
+
+	  for(int i=len-1;i>=0;i--)
+	{
+	   empty=empty+s.charAt(i);
+	}
+	if(s.equalsIgnoreCase(empty))
+	{
+	  System.out.println("The String Is Palindrom");
+	}
+	else
+	{
+	  System.out.println("The String Is Not Palindrom");
+	}
+	}
+
+
+
+	public void StringSpaceCount()
+	{
+	   String s="the java Programming Langauge";
+	    int len=s.length();
+	int count=0;
+	  for(int i=0;i<=len-1;i++)
+	{
+	   if(s.charAt(i)==' ')
+	    {
+	     count++;
+	    }
+	}
+	System.out.println(count);
+	}
+
+
+
+	public void StringWordCharCount()
+	{
+	   String s="Shila Shivani";
+	   int len=s.length();
+	   int count=0;
+
+	   for(int i=0;i<=len-1;i++)
+	    {
+	      if(s.charAt(i)!=' ')
+	       {
+	            count++;
+	      }
+	   }
+	System.out.println(count);
+	}
+
+
+	public void EachWordReverceByString()
+	{
+	    String s="the java programming Langauge";
+	    String empty[]=s.split(" ");
+	     String rev="";
+	   for(int i=0;i<empty.length;i++)
+	   {
+	         String word=empty[i];
+	         int len=word.length();
+	    for(int j=len-1;j>=0;j--)
+	    {
+	       rev=rev+word.charAt(j);
+	    }
+	}System.out.println(rev);
+	}
+
+
+	public void MaxNumberOfArray()
+	{
+	   int[] a={1,4,6,8,9};
+	   int len=a.length;
+	   int max=a[0];
+	  for(int i=0;i<=len-1;i++)
+	   {
+	      if(a[i]>max)
+	       {
+	          max=a[i];
+	       }
+	  }
+	System.out.println("the max number of="+max);
+	}
+
+
+
+	public void removeAllWhiteSpace()
+	{
+	    String s="the java Programming Langauge is ";
+	    String a=s.replace(" ", "");
+	  System.out.println(a);
+	}
+
+
+
+	
+	
+	public static void main(String[] args) {
+		AllProgram obj=new AllProgram();
+//		obj.EachWordReverceByString();
+//		obj.evenOdd();
+//		obj.factorial();
+//		obj.Fibbo();
+//		obj.MaxNumberOfArray();
+//        obj.palindrom();
+//        obj.palindromString();
+//        obj.removeAllWhiteSpace();
+//        obj.ReverseNumber();
+          obj.StringSpaceCount();	
+          obj.StringWordCharCount();
+		
+	}
+
+}

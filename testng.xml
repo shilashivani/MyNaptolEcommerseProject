@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NaaptolRegression">
+  <test thread-count="5" name="Chrometest">
+  <parameter name="Browser" value="Chrome"></parameter>
+    <classes>
+      <class name="test.ToVarifyAdressProceedToCkeckOutPage"/>
+      <class name="test.VarifyLogoutPageFeatures"/>
+      <class name="test.ToVarifyProceedToCheckInCart"/>
+      <class name="test.VarifyLoginFeaturesNaaptol"/>
+      <class name="test.VarifyTheAddToCArtButtonOfNaaptol"/>
+      <class name="test.VarifyTheFeedBackForm"/>
+      <class name="test.ToVarifyCustomerIsAbleToRemoveProductFromCart"/>
+      <class name="test.VarifyIfCustomerAbleToAddMultipleProductToCart"/>
+      <class name="test.VarifyIfCustomerIsAbleToAddProductToCart"/>
+      <class name="test.VarifyIfCustomerIsAbleToPlace"/>
+      <class name="test.VerifyProductAreDisplayedSearch"/>
+      <class name="test.VarifyTheCartPage"/>
+      <class name="test.VarifyLoginOrRegistrationFunctionality"/>
+    </classes>
+   </test> <!-- Test -->
+    <test thread-count="5" name="EdgeTest">
+       <parameter name="Browser" value="Edge"></parameter>
+        <classes>
+      <class name="test.ToVarifyAdressProceedToCkeckOutPage"/>
+      <class name="test.VarifyLogoutPageFeatures"/>
+      <class name="test.ToVarifyProceedToCheckInCart"/>
+      <class name="test.VarifyLoginFeaturesNaaptol"/>
+      <class name="test.VarifyTheAddToCArtButtonOfNaaptol"/>
+      <class name="test.VarifyTheFeedBackForm"/>
+      <class name="test.ToVarifyCustomerIsAbleToRemoveProductFromCart"/>
+      <class name="test.VarifyIfCustomerAbleToAddMultipleProductToCart"/>
+      <class name="test.VarifyIfCustomerIsAbleToAddProductToCart"/>
+      <class name="test.VarifyIfCustomerIsAbleToPlace"/>
+      <class name="test.VerifyProductAreDisplayedSearch"/>
+      <class name="test.VarifyTheCartPage"/>
+      <class name="test.VarifyLoginOrRegistrationFunctionality"/>
+  </classes>
+ </test>
+  </suite> <!-- Suite -->
